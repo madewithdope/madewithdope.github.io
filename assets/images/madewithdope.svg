@@ -21,17 +21,9 @@
 	<path class="st1" d="M24.3,59.6"/>
 	<path class="st1" d="M59.5,23.2"/>
 </g>
-<g id="Ebene_4">
-	<polygon class="st3" points="24.5,9.2 44.1,9.2 59.5,25.2 	"/>
-	<polygon class="st3" points="59.5,25.2 14.5,37.2 30.3,53.4 	"/>
-	<polygon class="st4" points="59.5,25.2 74.8,8.2 94.5,8.2 	"/>
-	<polygon class="st3" points="30.3,53.4 59.5,83.2 59.5,25.2 	"/>
-	<polygon class="st4" points="59.5,25.2 104.5,37.2 88.6,53.4 	"/>
-	<polygon class="st3" points="88.6,53.4 59.5,83.2 59.5,25.2 	"/>
-	<path class="st3" d="M59.5,25.2"/>
-	<polygon class="st3" points="59.5,25.2 14.5,37.2 24.5,9.2 	"/>
-	<polygon class="st4" points="94.5,8.2 104.5,37.2 59.5,25.2 	"/>
-</g>
+<path class="st3" d="M59.5,25.2"/>
+<polygon class="st3" points="59.5,25.2 44.1,9.2 24.5,9.2 14.5,37.2 30.3,53.4 59.5,83.2 88.6,53.4 "/>
+<polygon class="st4" points="94.5,8.2 74.8,8.2 59.5,25.2 88.6,53.4 104.5,37.2 "/>
 <g id="Ebene_7" class="st0">
 	<g class="st5">
 		<polygon class="st3" points="52.3,33.9 59.5,58.7 59.5,8.7 		"/>
