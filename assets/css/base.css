@@ -9,6 +9,29 @@ body {
   justify-content: center;
   align-items: center;
 }
-img {
+.logo {
   width: 100px;
+  height: 100px;
+  background-image: url('../images/madewithdope.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  -webkit-animation-name: Floatingx;
+  -webkit-animation-duration: 3s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: ease-in-out;
+  -moz-animation-name: Floatingx;
+  -moz-animation-duration: 3s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: ease-in-out;
+}
+@-webkit-keyframes Floatingx {
+  0% {
+    -webkit-transform: translate(0, 0px);
+  }
+  50% {
+    -webkit-transform: translate(0, 10px);
+  }
+  100% {
+    -webkit-transform: translate(0, 0px);
+  }
 }
